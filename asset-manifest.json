@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-forms-color/static/css/main.2422af0c.css",
+    "main.js": "/ra-homework-forms-color/static/js/main.f9a4d6e3.js",
+    "static/js/787.bafa65ac.chunk.js": "/ra-homework-forms-color/static/js/787.bafa65ac.chunk.js",
+    "index.html": "/ra-homework-forms-color/index.html",
+    "main.2422af0c.css.map": "/ra-homework-forms-color/static/css/main.2422af0c.css.map",
+    "main.f9a4d6e3.js.map": "/ra-homework-forms-color/static/js/main.f9a4d6e3.js.map",
+    "787.bafa65ac.chunk.js.map": "/ra-homework-forms-color/static/js/787.bafa65ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2422af0c.css",
+    "static/js/main.f9a4d6e3.js"
+  ]
+}
